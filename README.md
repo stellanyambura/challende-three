@@ -1,6 +1,8 @@
 #### Title
 
-Flatdango
+Flatdango  (https://stellanyambura.github.io/challende-three/)
+
+
 
 
 #### Description
@@ -23,9 +25,9 @@ A user should be able to:
 * Web browser of you choice
 
 #### Running
-* Run the following [link](https://stellagitonga.github.io/Wk3-code-challenge-Flatdango/) through your broswer;
-```
-https://stellagitonga.github.io/Wk3-code-challenge-Flatdango/
+* Run the following [link]( https://stellanyambura.github.io/challende-three/
+
+) through your browser
 ```
 * Click on a movie title to see the movie title, showtime, movie runtime, the movie title and available tickets.
 
