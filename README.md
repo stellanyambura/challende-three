@@ -1,8 +1,13 @@
 #### Title
 
+<<<<<<< HEAD
 Flatdango  (https://stellanyambura.github.io/challende-three/)
 
 
+=======
+Flatdango
+https://stellanyambura.github.io/challende-three/
+>>>>>>> 6bf7b71c962034fa42d6165bb00de3310b31933f
 
 
 #### Description
