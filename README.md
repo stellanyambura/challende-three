@@ -1,48 +1,44 @@
-#### Title
-
-<<<<<<< HEAD
-Flatdango  (https://stellanyambura.github.io/challende-three/)
-
-
-=======
-Flatdango
+# FLATDANGO MOVIE THEATRE
+## DESCRIPTION
+FlatDango is a web application for purchasing movie tickets.
+​
+​
+### INSTALLATION
+To install the repository on your machine follow the instructions below;
+​
+Open a terminal on your computer.
+​
+Clone this repo to your machine using the ssh key provided:-
 https://stellanyambura.github.io/challende-three/
->>>>>>> 6bf7b71c962034fa42d6165bb00de3310b31933f
-
-
-#### Description
-
-Flatdango is a movie theater app that displays movies the theater is showcasing at a particular day.
-
-The movie that shows When a user enters the site is the top trending movie of the season.
-
-A user should be able to:
-
-* View a list of movies showing.
-* Click on a movie from a list and:
-    * See the poster.
-    * see the runtime.
-    * see the showtime.
-    * see the tickets remaining.
-* Buy a ticket of the movie.
-
-#### Requirements
-* Web browser of you choice
-
-#### Running
-* Run the following [link]( https://stellanyambura.github.io/challende-three/
-
-) through your browser
-```
-* Click on a movie title to see the movie title, showtime, movie runtime, the movie title and available tickets.
-
-* You can buy a ticket by clicking on the buy button.
-
-* A `sold out` budge will be displayed next to the movies title in the movie list menu when its sold out and a user can't buy tickets anymore.
-
-#### Author
- This Project was contributed by: [stella gitonga](https://github.com/stellagitonga/)
-
-#### License
- This project is licenced under: ISC
-
+​
+Change directory to the code challenge folder.
+  cd week-3-code-challenge
+​
+Open it in a text editor of your choice.
+​
+# PROJECT SETUP.
+The app fetches data from a mock server and renders it on the page.When the page loads the first movie on list is displayed on the right side.On the left side,a list of the available movies is shown.One can view the details, that is the title,the runtime,the showtime,the number of tickets available and a brief description of what the movies is about by clicking on its name.There is a buy tickets button where a user presses if he/she wants to purchase a ticket.If the tickets available are 0 it displays "No tickets available" at the tickets section.
+​
+## RUNNING THE APPLICATION
+To run the app on your machine;
+​
+Download the Json server on your machine if you do not have it.
+​
+Open the terminal and run the command while in the cloned directory;
+​
+    json-server --watch db.json
+Open the html file in the browser of you choice.
+​
+The first movie and a list of all the movies is displayed on the left side.
+​
+To view a movie's details the user clicks on the movie's name.
+​
+There is a buy tickets button available where the user presses to buy tickets.
+​
+If tickets are equal to 0 a "No tickets available " message is displayed.
+​
+# AUTHOR.
+This project was done by:Stella Gitonga
+​
+## LICENSE.
+This project is under MIT License
